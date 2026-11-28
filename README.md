@@ -5,7 +5,7 @@ This public repository stores encrypted TeleGuard data snapshots. The encryption
 <!-- teleguard-data-mirror-status:start -->
 ## Mirror status
 
-- Last mirror update: `2026-11-28T10:43:00.845216+00:00`
+- Last mirror update: `2026-11-28T16:10:01.288510+00:00`
 - User records: 40
 - Account records: 3
 <!-- teleguard-data-mirror-status:end -->
